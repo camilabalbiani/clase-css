@@ -1,0 +1,63 @@
+/* 
+1. ORDEN
+2. ESPECIFIDAD
+3. IMPORTANCIA
+*/
+
+header {
+	background-color: blue;
+}
+
+h1{
+	color: white;
+}
+
+.subtitulo{
+	color: yellow;
+	font-family: Verdana;
+	text-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+}
+
+#link{
+	color: pink;
+}
+
+.parrafo1{
+	color: #ED6A5E;
+	font-family: 'Raleway', sans-serif;
+}
+
+.parrafo2{
+	color: #4CE0B3;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.parrafo3{
+	color: #377771;
+	line-height:10px;
+	letter-spacing:10px;
+}
+
+#link{
+	text-decoration: none;
+}
+
+.icono{
+	font-weight: 30px;
+}
+
+.facebook{
+	color: #3b5998;
+}
+
+.pinterest{
+	color: #bb0000;
+}
+
+.linkedin{
+	color: #007bb5;
+}
+
+
